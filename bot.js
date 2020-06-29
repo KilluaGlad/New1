@@ -192,7 +192,7 @@ client.on('message', message => { // لا تغير شئ عشان ما تخرب �
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 10000; x++) {
         message.channel.send(`**Credit Spam , Frame ,hhhhhh nadi hachi, Farm Credit By killua, HHJKLQDFHJOAHZFJKQSF NQJKSHFKJ **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -206,7 +206,7 @@ client2.on('message', message => { // لا تغير شئ عشان ما تخرب 
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 10000; x++) {
         message.channel.send(`**Credit Spam , Frame , qsdgdgfdgeaerazr , Farm Credit By killua, ez Farm -zeaf dgdfhsqgz  hxddf<dq sdf **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -220,7 +220,7 @@ client3.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 10000; x++) {
         message.channel.send(`**Credit Spam , Frame ,qsd dsqgdgZE DS , FAAAAAAAAAAAAAAGGGGGGGGGGGGGGGGGGGGJJJJJJJJOQZDOODKJ **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -234,7 +234,7 @@ client4.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 10000; x++) {
         message.channel.send(`**Credit Spam , Frame , Credit By Killua , KJLSGJHKLSDGHMSD HSDJMLKFDSGHM H%QHSDGKLS **[ " ${x} " ]`)
           .then(m => {
             count++;
